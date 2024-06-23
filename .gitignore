@@ -1,3 +1,11 @@
+#config
+config/
+.idea/
+*.mp3
+*.wav
+base_model/
+*.pth
+*.index
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
